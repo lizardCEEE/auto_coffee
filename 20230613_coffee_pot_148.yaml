@@ -1,0 +1,11 @@
+path: '20230613_coffee_pot_148/'  # path to dataset
+train: 'train/images'   # path to training dataset
+val: 'valid/images'     # path to validation dataset
+
+# Classes
+names:
+  0: 'coffee_pot'
+
+
+
+
